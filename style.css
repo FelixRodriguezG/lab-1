@@ -1,0 +1,24 @@
+htm,body{
+    height: 100vh;
+
+}
+
+main{
+    background-color: rgb(66, 63, 63);
+    height: 100%;
+    display: grid;
+    place-content: center;
+}
+nav{
+    padding: 1rem;
+    display: flex;
+    gap: 3rem;
+    
+}
+a {
+    font-size:4rem;
+}
+h1{
+    font-size: 20rem;
+    color: blanchedalmond;
+}
