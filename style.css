@@ -9,7 +9,7 @@ main{
     display: grid;
     place-content: center;
 }
-nav{
+nav ul{
     padding: 1rem;
     display: flex;
     gap: 3rem;
